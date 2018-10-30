@@ -450,11 +450,17 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.Adobe Premiere pro {
+  	width: 80%;
+  	-moz-animation: Adobe Premiere pro 2s ease;
+  	-webkit-animation: Adobe Premiere pro 2s ease;
+}
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+
 
 @-moz-keyframes java {
   0%   { width: 0px;  }
